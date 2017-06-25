@@ -1,3 +1,4 @@
+*.orig
 random_osfile
 *.log
 logs/
