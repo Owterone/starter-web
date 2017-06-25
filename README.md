@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 This is more text for rebase example, with more text and 
-changes from feature branch.
+changes from feature branch. Emergency fix.
 
 ## INTRO
 
