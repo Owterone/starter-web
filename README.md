@@ -11,3 +11,5 @@ A simple document for stuffs and things.
 Sample website with plenty of files for demos
 
 ## DEPLOYMENTS
+
+They happen from time to time.
