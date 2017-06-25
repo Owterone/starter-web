@@ -13,3 +13,11 @@ Sample website with plenty of files for demos
 ## DEPLOYMENTS
 
 They happen from time to time.
+
+## FAKE TEXT
+
+WRONG
+
+## More news
+
+Real news
