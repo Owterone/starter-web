@@ -21,3 +21,7 @@ WRONG
 ## More news
 
 Real news
+
+### CopyRight
+
+COPYRIGHT INFORMATION
